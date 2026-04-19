@@ -107,7 +107,7 @@ Outro projeto que faz parte da minha evolução prática.
 <div align="center">
 
 **Elias Junior**  
-*Desenvolvedor Front-end Júnior em transição de carreira*  
-*Aprendendo, evoluindo e construindo um futuro na tecnologia*
+
+*Meu objetivo não é apenas escrever código, mas criar interfaces que  resolvem problemas reais.*
 
 </div>
